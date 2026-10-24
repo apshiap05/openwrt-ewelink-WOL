@@ -1,0 +1,6 @@
+{
+  "region": "cn",
+  "dry_run": true,
+  "cooldown_seconds": 30,
+  "targets": []
+}
