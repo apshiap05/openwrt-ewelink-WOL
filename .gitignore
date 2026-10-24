@@ -1,0 +1,24 @@
+# Local application credentials and installed secrets
+/agent/client-app.json
+/auth.json
+/account.json
+
+# Build outputs and checksums generated for a particular build
+/deploy/ewelink-wol
+/deploy/LICENSE-project.txt
+/deploy/SHA256SUMS*
+/*.tar.gz
+/native-ui-verification.json
+
+# Personal deployment records and exploratory prototypes
+/evidence/
+/STATUS.md
+/DDNS.md
+/cloud-probe/
+/ddns/
+/probe.cgi
+/public-probe.sh
+/agent/config.json
+/agent/discover_nas.lua
+/agent/luci_regression.lua
+/LOCAL_NOTES.md
